@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Brian%20Mwangi&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20•%20Data&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Brian%20Mwangi&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20•%20Data Science&descAlignY=55&animation=fadeIn" />
 </p>
 
 # What I'm Building
